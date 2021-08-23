@@ -1,0 +1,232 @@
+/*==================== PERCENTS ====================*/
+/* GENERAL SKILLS */
+.skills__internet {
+  width: 50%;
+}
+
+.skills__internet {
+  width: 50%;
+}
+
+.skills__terminal {
+  width: 65%;
+}
+
+.skills__os {
+  width: 65%;
+}
+
+.skills__processmanagement {
+  width: 25%;
+}
+
+.skills__threads {
+  width: 25%;
+}
+
+.skills__memory {
+  width: 25%;
+}
+
+.skills__interprocess {
+  width: 15%;
+}
+
+.skills__io {
+  width: 15%;
+}
+
+.skills__posix {
+  width: 0%;
+}
+
+.skills__networking {
+  width: 25%;
+}
+
+.skills__git {
+  width: 70%;
+}
+
+.skills__ed {
+  width: 30%;
+}
+
+.skills__js {
+  width: 85%;
+}
+
+.skills__ts {
+  width: 75%;
+}
+
+.skills__py {
+  width: 25%;
+}
+
+.skills__c {
+  width: 50%;
+}
+
+.skills__csharp {
+  width: 25%;
+}
+
+.skills__java {
+  width: 25%;
+}
+
+.skills__integration {
+  width: 50%;
+}
+
+.skills__unit {
+  width: 70%;
+}
+
+.skills__funcional {
+  width: 0%;
+}
+
+.skills__github {
+  width: 80%;
+}
+
+.skills__gitlab {
+  width: 80%;
+}
+
+.skills__licenses {
+  width: 20%;
+}
+
+.skills__semver {
+  width: 0%;
+}
+
+.skills__ssh {
+  width: 30%;
+}
+
+.skills__designpatterns {
+  width: 30%;
+}
+
+.skills__charenc {
+  width: 0%;
+}
+
+.skills__websec {
+  width: 10%;
+}
+
+.skills__buildtools {
+  width: 50%;
+}
+
+/* BACKEND */
+.skills__nodejs {
+  width: 85%;
+}
+
+.skills__sql {
+  width: 70%;
+}
+
+.skills__nosql {
+  width: 70%;
+}
+
+.skills__apis {
+  width: 70%;
+}
+
+.skills__caching {
+  width: 0%;
+}
+
+.skills__cicd {
+  width: 0%;
+}
+
+.skills__design {
+  width: 30%;
+}
+
+.skills__achitectural {
+  width: 30%;
+}
+
+.skills__searchengines {
+  width: 0%;
+}
+
+.skills__messagebrokers {
+  width: 0%;
+}
+
+.skills__containers {
+  width: 40%;
+}
+
+.skills__graphql {
+  width: 0%;
+}
+
+.skills__graphdatabases {
+  width: 0%;
+}
+
+.skills__webservers {
+  width: 0%;
+}
+
+.skills__buildingscale {
+  width: 0%;
+}
+
+/* FRONTEND */
+.skills__html {
+  width: 70%;
+}
+
+.skills__css {
+  width: 30%;
+}
+
+.skills__reactjs {
+  width: 70%;
+}
+
+.skills__pwa {
+  width: 30%;
+}
+
+.skills__ssr {
+  width: 50%;
+}
+
+.skills__ssg {
+  width: 50%;
+}
+
+.skills__mobileapps {
+  width: 50%;
+}
+
+.skills__desktopapps {
+  width: 50%;
+}
+
+.skills__webassembly {
+  width: 0%;
+}
+
+/* DESIGN */
+.skills__figma {
+  width: 20%;
+}
+
+.skills__photoshop {
+  width: 20%;
+}
