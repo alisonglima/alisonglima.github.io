@@ -8,42 +8,9 @@
   width: 50%;
 }
 
-.skills__terminal {
+.skills__osknowledge {
   width: 65%;
 }
-
-.skills__os {
-  width: 65%;
-}
-
-.skills__processmanagement {
-  width: 25%;
-}
-
-.skills__threads {
-  width: 25%;
-}
-
-.skills__memory {
-  width: 25%;
-}
-
-.skills__interprocess {
-  width: 15%;
-}
-
-.skills__io {
-  width: 15%;
-}
-
-.skills__posix {
-  width: 0%;
-}
-
-.skills__networking {
-  width: 25%;
-}
-
 .skills__git {
   width: 70%;
 }
@@ -76,23 +43,11 @@
   width: 25%;
 }
 
-.skills__integration {
+.skills__tests {
   width: 50%;
 }
 
-.skills__unit {
-  width: 70%;
-}
-
-.skills__funcional {
-  width: 0%;
-}
-
-.skills__github {
-  width: 80%;
-}
-
-.skills__gitlab {
+.skills__repos {
   width: 80%;
 }
 
@@ -113,11 +68,11 @@
 }
 
 .skills__charenc {
-  width: 0%;
+  width: 15%;
 }
 
-.skills__websec {
-  width: 10%;
+.skills__security {
+  width: 40%;
 }
 
 .skills__buildtools {
@@ -129,12 +84,28 @@
   width: 85%;
 }
 
-.skills__sql {
+.skills__postgres {
+  width: 75%;
+}
+
+.skills__mysql {
+  width: 75%;
+}
+
+.skills__mongodb {
   width: 70%;
 }
 
-.skills__nosql {
-  width: 70%;
+.skills__cassandra {
+  width: 0%;
+}
+
+.skills__influx {
+  width: 0%;
+}
+
+.skills__firebase {
+  width: 0%;
 }
 
 .skills__apis {
@@ -216,6 +187,18 @@
 
 .skills__desktopapps {
   width: 50%;
+}
+
+.skills__angular {
+  width: 20%;
+}
+
+.skills__react {
+  width: 70%;
+}
+
+.skills__vue {
+  width: 0%;
 }
 
 .skills__webassembly {
